@@ -26,6 +26,6 @@ int main(){
    obj2.setData(23.3455);
    cout<<obj2.getData();
 
-
+cout<<"changes checking";
 
 }
